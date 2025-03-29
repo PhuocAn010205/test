@@ -1,0 +1,62 @@
+/* Responsive styles for page-specific elements */
+
+
+@media (max-width: 480px) {
+   
+    .page__one-heading {
+        padding: 5px 0;
+        
+    }
+
+    .page__one-text {
+        font-size: 1.5rem !important;
+    }
+
+    .kc {
+        margin-left: 10px;
+        white-space: nowrap;
+    }
+
+    .feature__images {
+        grid-template-columns: 1fr;
+        gap: 5px;
+    }
+   
+   .feature__img-down {
+    position: relative;
+    bottom: -32px;
+   }
+    .feature__img {
+        width: 100%;
+        height: auto;
+    }
+    .navbar__link_page {
+        font-size: 0.8rem;
+        padding-top: -2px;
+    }
+    .img__page2 {
+        position: relative;
+        top: -100px;
+        z-index: -2;
+        width:110%;
+    }
+    .decs__content{
+        font-size: 1rem !important;
+        line-height: 1.5 !important;
+    }
+    .footer__box{
+        text-align:center;
+    }
+    .media__page3{
+        width: 100%;
+        height: auto;
+        margin-top: 10px;
+    }
+    .img__page3{
+        width: 200%;
+        height: auto;
+    }
+    .footer__page-one{
+        padding-top: 12px;
+    }
+}

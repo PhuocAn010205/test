@@ -1,0 +1,40 @@
+html {
+    font-size: 62.5% !important;
+
+}
+body {
+    font-size: 1.6rem !important;
+    font-family: "Big Shoulders", sans-serif;
+    background: #1E1611;
+}
+.page__one-heading {
+    padding: 20px 0;
+}
+.page__one-text{
+    color: #BC420F;
+    font-weight: 400;
+    font-size: 2.4rem;
+    line-height: 1;
+    
+}
+.kc {
+    margin-left: 50px;
+    margin-top:10px;
+}
+.feature__images {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    justify-items: center;
+    align-items: center;
+   
+}
+.footer__box{
+    margin-top: 30px;
+}
+
+.feature__img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
