@@ -106,7 +106,7 @@
 
     .page__one {
         padding: 10px 0;
-        font-family: "Big Shoulders", sans-serif;
+        
     }
 
     .nav {
@@ -138,7 +138,7 @@
     }
 
     .nav__desc {
-        font-size: 0.7rem !important;
+        font-size: 0.5rem !important;
         color: #fff;
         text-align: center;
         margin-left:5px
@@ -150,7 +150,7 @@
 }
 
 .page__one-text {
-    font-size: 1.5rem !important;
+    font-size: 1.3rem !important;
 }
 
 .kc {
